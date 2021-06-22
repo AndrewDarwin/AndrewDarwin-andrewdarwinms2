@@ -15,7 +15,7 @@ a.nav-link{
 /* Used https://www.w3schools.com/css/css3_colors.asp for assistance with color code */
 
 .bg-dark {
-    background-color: rgba(0,0,0,0.75) !important;
+    background-color: rgb(0, 0, 255) !important;
 }
 
 /* ----------------------------------------Photos */
@@ -44,10 +44,10 @@ a.nav-link{
     padding-top: 100px;   
 }
 
-.mywork-heading { text-align: center;
+.heading { text-align: center;
 padding-bottom: 20px;}
 
-.card {height: 500px;}
+.card {height: 400px;}
 
 
 .contact {
